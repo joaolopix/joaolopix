@@ -3,8 +3,8 @@
 - 🎓 I'm currently studying for a bachelor's degree in Informatics Engineering at the University of Coimbra.
 - 🔭 I’m currently working on projects for my academic degree.
 - 📫 How to reach me: <br /> <br />
-  - [![](https://img.shields.io/badge/-lopix23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:lopix23@gmail.com)](mailto:lopix23@gmail.com) 
-  - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+  - [![](https://img.shields.io/badge/-lopix23@gmail.com-333333?style=flat&logo=Gmail&logoColor=red&link=mailto:lopix23@gmail.com)](mailto:lopix23@gmail.com) 
+  - [![](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=blue)]()
 
 #### Programming Languages
 
