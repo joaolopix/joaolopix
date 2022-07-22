@@ -8,6 +8,7 @@
 
 [![](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)]()
 [![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)]()
+[![](https://img.shields.io/badge/C%23-333333?style=flat&logo=C-sharp&logoColor=00599C)]()
 [![](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=c7620a)]()
 [![](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=c7c70a)]()
 [![](https://img.shields.io/badge/-VisualBasic-333333?style=flat&logo=VisualStudio&logoColor=613c91)]()
