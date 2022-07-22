@@ -14,4 +14,5 @@
 [![](https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgresql&logoColor=2164c2)]()
 [![](https://img.shields.io/badge/M-MatLab-333333?style=flat&logoColor=white)]()
 [![](https://img.shields.io/badge/ASM-Assembly-333333?style=flat&logoColor=white)]()
+[![](https://img.shields.io/badge/SP-SourcePawn-333333?style=flat&logoColor=white)]()
 [![](https://img.shields.io/badge/AHK-AutoHotkey-333333?style=flat&logoColor=white)]()
