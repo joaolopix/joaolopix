@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm João 👨‍💻
 
 - 🎓 Finished my bachelor's degree in Informatics Engineering.
-- 🎓 Starting my master's at the University of Coimbra.
+- 🎓 Starting my master's in Cybersecurity.
 - 🔭 I’m currently working on projects for my academic degree.
 - 📫 How to reach me: <br /> <br />[![](https://img.shields.io/badge/-lopix23@gmail.com-333333?style=flat&logo=Gmail&logoColor=red&link=mailto:lopix23@gmail.com)](mailto:lopix23@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=blue)]()
 
